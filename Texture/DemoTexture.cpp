@@ -103,7 +103,7 @@ bool CDemoTexture::LoadContent()
         return false;
     }
 
-    // Cleanup PS buffer
+    // Cleanup PS buffer-----
     pPSBuffer->Release();
     pPSBuffer = NULL;
 
