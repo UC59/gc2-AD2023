@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\jose_\Downloads\Ejercicios 1 y 2_GC2\Ejercicios\2do_Ejercicio_GC2_1897486\Texture\Debug\Texture.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\jose_\Downloads\Ejercicios 1 y 2_GC2\Ejercicios\2do_Ejercicio_GC2_1897486\Texture\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\jose_\Downloads\Ejercicios 1 y 2_GC2\Ejercicios\2do_Ejercicio_GC2_1897486\Texture\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
